@@ -9,4 +9,7 @@ Doing Industry Description and accounting for industry change is an important an
 - Data repository systems: Databases and Data Lakes that feed other systems.
 - Machine Learning MLOPS:   Hadoop/MapReduce: and Spark ML processing systems, TensorFLow,Torch
 - BI Tools: Business Intelligence: Tableau, Power BI,
-- AI Artificial Intelligence systems.  
+- AI Artificial Intelligence systems.
+
+The Data Industry and Data Engineering may be and often are employed to deal with regulatory requirements. For instance, at Bechtel we provided critical information about power plant structural safety,  When I worked at Guideant, we built SQL systems to answer regulatory requirements for the FDA.
+Note that the data industry is undergoing change.  Especially due to the development of AI, the systems identified in the diagrams will supplanted or replaced by new systems. I wuld estimate that there will be some 40 to 60 additional program systems that have been started even in just the past 4 months.  --- Rich
